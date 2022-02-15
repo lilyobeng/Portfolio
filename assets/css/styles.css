@@ -15,10 +15,11 @@
   --bottom-margin-2: 1rem;
   --line-height: 1.7rem;
   --transition: 0.3s;
+ 
 }
 
 body {
-  background-color: #E3BC9A;
+  background: linear-gradient(#CE8B54, 	#E3BC9A, #CE8B54);
 }
 
 html {
@@ -148,7 +149,7 @@ nav h1 {
 }
 
 .icon-card {
-  background-color: #fff;
+  background-color: #FBFBFB;
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--secondary-shadow);
   padding: 20px;
@@ -156,7 +157,7 @@ nav h1 {
 }
 
 .projects {
-  background-color: var(--bg-color);
+  
   padding: 32px 0;
   margin-top: 2rem;
 }
@@ -196,11 +197,12 @@ nav h1 {
 }
 
 .project-card {
-  background-color: #fff;
+  background-color: #FBFBFB;
   border-radius: 11px;
   box-shadow: 0 3px 10px var(--primary-shadow);
   padding: 20px;
   margin: 10px;
+  
 }
 
 
